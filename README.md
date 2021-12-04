@@ -5,6 +5,7 @@
 - 🥅 2021 Goals - Contribute to open source community and add new CTF writeups!
 
 ### 📕 Latest Blog Posts
+- [eJPT Journey](https://medium.com/@ronaldallancoros/ejpt-journey-4c41daf0834)
 - [Passing the Pentest+ BETA Exam](https://medium.com/@ronaldallancoros/passing-the-pentest-beta-exam-9c67067babdf)
 - [HackerRank “Apple and Orange” Challenge](https://medium.com/@ronaldallancoros/hackerrank-apple-and-orange-challenge-43379daa7f6a)
 - [HackerRank “Grading students” with a twist!](https://medium.com/@ronaldallancoros/hackerrank-grading-students-with-a-twist-be56cfb7e706)

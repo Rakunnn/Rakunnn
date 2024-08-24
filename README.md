@@ -4,10 +4,12 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/racoros/)
 
 
-## I'm a Embedded Software Design Engineer and Security Enthusiast
+## I'm a Security Analyst
 - 🔭 I’m currently working on my various certification exams (Please see the 2022 goals!)
 - 🥅 2021 Goals - Contribute to open source community and add new CTF writeups!
 - 🥅 2022 Goals - Passed GuideM-GPT, eCPPT, CRTP, and OSCP. Hopefully roll up my own Port-Folio!
+- 🥅 2023 Goals - Passed GuideM-GPT, eCPPT, CRTP, and OSCP. Hopefully roll up my own Port-Folio!
+- 🥅 2024 Goals - Passed GuideM-GPT, eCPPT, CRTP, and OSCP. Hopefully roll up my own Port-Folio!
 
 
 
